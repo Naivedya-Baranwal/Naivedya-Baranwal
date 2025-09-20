@@ -3,8 +3,6 @@
 
 📧 Email Me 👉 ✉️ **naivedyab198@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-📱 Phone: **+91-8299117510**
-
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Naivedya-Baranwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naivedya-baranwal-a10360260/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://my-portfolio-eight-mu-51.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naivedyab198@gmail.com)
 
@@ -32,3 +30,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
